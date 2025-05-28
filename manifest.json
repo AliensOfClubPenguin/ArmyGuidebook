@@ -1,16 +1,16 @@
 {
-  "name": "New Guidebook for Armies",
-  "short_name": "New Army Guidebook",
-  "description": "A guidebook for Club Penguin Armies.",
+  "name": "Stellar Guidebook for Aliens of Club Penguin",
+  "short_name": "Stellar Guidebook",
+  "description": "A guidebook for Stellars of Aliens.",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#202020",
-  "theme_color": "#1C1C1C",
+  "theme_color": "#86FF6B",
   "icons": [
     {
       "src": "media/logo.png",
       "type": "image/png",
-      "sizes": "1024x1024"
+      "sizes": "1080x1080"
     }
   ],
   "default_locale": "en"

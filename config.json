@@ -1,10 +1,10 @@
 {
-  "name": "New Guidebook",
-  "armyName": "Example Army of Club Penguin",
-  "lastUpdated": 0,
+  "name": "Stellar Guidebook",
+  "armyName": "Aliens of Club Penguin",
+  "lastUpdated": 1748438040000,
 
   "WidgetBot": {
-    "available": true,
+    "available": false,
     "guildID": "123456789012345678",
     "channelID": "123456789012345678"
   },
@@ -13,6 +13,6 @@
   "shortDateFormat": "MMMM d, yyyy, hh:mm a",
 
   "passwordProtected": true,
-  "hashedPassword": "$2y$10$A7R3ens0PDVLPtfb7AzGJOIY5lOJeoTra6IfeHmMzvLZlwpKUTH8S",
+  "hashedPassword": "$2y$10$2iNhlDQJB9Bn9mLDHrS4R.5tmAmgDHvEXSFa53V.yf879je5EZiNq",
   "hashCostFactor": 10
 }
