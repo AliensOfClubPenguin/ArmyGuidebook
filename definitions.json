@@ -1,10 +1,14 @@
 {
   "example[1]": {
     "thumbnail": "./media/example.png",
-    "definition": "An example is a sample."
+    "definition": "A sample or template."
   },
   "example[2]": {
     "thumbnail": "./media/example.png",
-    "definition": "An example article is a type of sample article which may inspire you."
+    "definition": "A sample or template article for demonstration."
+  },
+  "Staff-in-Training": {
+    "thumbnail": null,
+    "definition": "A candidate who is undergoing training before becoming a full staff member. They have limited staff privileges."
   }
 }
