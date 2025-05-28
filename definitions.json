@@ -1,0 +1,10 @@
+{
+  "example[1]": {
+    "thumbnail": "./media/example.png",
+    "definition": "An example is a sample."
+  },
+  "example[2]": {
+    "thumbnail": "./media/example.png",
+    "definition": "An example article is a type of sample article which may inspire you."
+  }
+}

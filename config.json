@@ -1,0 +1,18 @@
+{
+  "name": "New Guidebook",
+  "armyName": "Example Army of Club Penguin",
+  "lastUpdated": 0,
+
+  "WidgetBot": {
+    "available": true,
+    "guildID": "123456789012345678",
+    "channelID": "123456789012345678"
+  },
+
+  "longDateFormat": "cccc, MMMM d, yyyy, hh:mm a",
+  "shortDateFormat": "MMMM d, yyyy, hh:mm a",
+
+  "passwordProtected": true,
+  "hashedPassword": "$2y$10$A7R3ens0PDVLPtfb7AzGJOIY5lOJeoTra6IfeHmMzvLZlwpKUTH8S",
+  "hashCostFactor": 10
+}

@@ -1,0 +1,11 @@
+@supports (-webkit-user-select: none) {
+  .prevent-selection {
+    -webkit-user-select: none; /* Safari */
+  }
+}
+
+@supports (-ms-user-select: none) {
+  .prevent-selection {
+    -ms-user-select: none; /* IE 10 and IE 11 */
+  }
+}
